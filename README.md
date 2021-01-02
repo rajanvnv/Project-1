@@ -186,3 +186,6 @@ Answer : For the ANSIBLE : https://github.com/rajanvnv/Project-1/blob/main/Ansib
 Answer : For FILEBEAT: https://github.com/rajanvnv/Project-1/blob/main/Ansible/filebeat.yml.txt
 
 Answer: For METRICBEAT: https://github.com/rajanvnv/Project-1/blob/main/Ansible/metricbeat.yml.txt
+
+Screen prints of completed File and Metric beat screens:
+https://github.com/rajanvnv/Project-1/blob/main/Diagrams/File%20beat%20and%20Metric%20beat%20screenprints.pdf
